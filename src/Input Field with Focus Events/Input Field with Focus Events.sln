@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input Field with Focus Events", "Input Field with Focus Events.csproj", "{FF7C6038-4198-289A-BAB1-2B9A29A69477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input Field with Focus Events.Editor", "Input Field with Focus Events.Editor.csproj", "{72F54CA3-9C55-1179-88DC-09863DD0EEE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7C6038-4198-289A-BAB1-2B9A29A69477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7C6038-4198-289A-BAB1-2B9A29A69477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7C6038-4198-289A-BAB1-2B9A29A69477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7C6038-4198-289A-BAB1-2B9A29A69477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F54CA3-9C55-1179-88DC-09863DD0EEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F54CA3-9C55-1179-88DC-09863DD0EEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F54CA3-9C55-1179-88DC-09863DD0EEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F54CA3-9C55-1179-88DC-09863DD0EEE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
